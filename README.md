@@ -2,6 +2,8 @@
 
 ArchiScope is a visual archive of architectural motifs from around the world. The project combines aesthetics, geography, and culture, allowing users to explore, classify, and share architectural elements inspired by travel.
 
+---
+
 ## ✨ Features
 
 - 📸 Upload and organize architectural photos by style, era, and region
@@ -10,6 +12,8 @@ ArchiScope is a visual archive of architectural motifs from around the world. Th
 - 🏷️ Tagging and filtering by materials, forms, and cultural features
 - 🧭 Ability to create personal collections and routes
 
+---
+
 ## 🧱 Tech Stack
 
 - **Frontend**: React, Mapbox GL JS
@@ -17,6 +21,8 @@ ArchiScope is a visual archive of architectural motifs from around the world. Th
 - **Machine Learning**: TensorFlow/Keras
 - **Image Processing**: OpenCV, Pillow
 - **Storage**: Local filesystem (for development)
+
+---
 
 ## 🚀 Getting Started
 
@@ -43,4 +49,22 @@ cd frontend
 npm install
 npm start
 ```
+
+---
+
+📬 Contact
+
+📧 Email: mailto:oleksandrchesnyi95@gmail.com
+
+💬 Telegram: [@OlekandrChesnyi](https://t.me/OlekandrChesnyi)
+
+🧑‍💻 GitHub: [@aesthetic-nomad](https://github.com/aesthetic-nomad/)
+
+“Architecture is frozen music. Travel is silent poetry. I code to capture both.”
+
+---
+
+Feel free to customize the code and README as per your specific requirements. Let me know if you need further assistance or additional features!
+::contentReference[oaicite:0]{index=0}
+ 
 
