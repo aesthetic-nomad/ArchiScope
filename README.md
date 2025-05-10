@@ -54,7 +54,7 @@ npm start
 
 📬 Contact
 
-📧 Email: mailto:oleksandrchesnyi95@gmail.com
+📧 Email: oleksandrchesnyi95@gmail.com
 
 💬 Telegram: [@OlekandrChesnyi](https://t.me/OlekandrChesnyi)
 
@@ -65,6 +65,5 @@ npm start
 ---
 
 Feel free to customize the code and README as per your specific requirements. Let me know if you need further assistance or additional features!
-::contentReference[oaicite:0]{index=0}
  
 
